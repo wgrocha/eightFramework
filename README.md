@@ -1,4 +1,4 @@
 # Eight Framework
 Simple and lightweight css framework
 
-Read more <a href="https://wgrocha.github.io/eigthFramework/" target="_blank">here</a>.
+Read more <a href="https://wgrocha.github.io/eightFramework/index.html" target="_blank">here</a>.
